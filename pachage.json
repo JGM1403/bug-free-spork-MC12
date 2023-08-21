@@ -1,0 +1,26 @@
+{
+    "name": "super-duper-train",
+    "version": "1.0.0",
+    "description": "Module 12",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Austin-Online/super-duper-train.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Austin-Online/super-duper-train/issues"
+    },
+    "homepage": "https://github.com/Austin-Online/super-duper-train#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "inquirer": "^8.2.4",
+      "mysql2": "^2.1.0",
+      "console.table": "^0.10.0"
+    }
+  }
